@@ -1,3 +1,5 @@
+/node_modules
+.env
 # Logs
 logs
 *.log
@@ -11,7 +13,7 @@ node_modules
 dist
 dist-ssr
 *.local
-.env
+
 
 # Editor directories and files
 .vscode/*
@@ -31,3 +33,7 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-lock.yaml
 package-lock.json
+
+
+
+
